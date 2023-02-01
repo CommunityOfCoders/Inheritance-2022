@@ -2,4 +2,4 @@
 
 Culmination of projects under Inheritance '22
 
-![1](https://user-images.githubusercontent.com/90565934/215969504-5069c60e-3cde-4d40-b554-c00223fb4d05.png)
+![Inheritance Timeline](https://user-images.githubusercontent.com/90565934/215971345-b20103dd-7dc4-45c4-bfb6-7d0ffb682805.png)
