@@ -46,8 +46,8 @@ The key features of **Study Abroad** :
 ## 🔗Links
 
 - [Git Repo Link](https://github.com/Riya-1508/CocProject_StudyAbroad)
-- [Demo Video]()
-- [Drive Link to Screenshots of your project]()
+- [Demo Video and Screenshots link](https://drive.google.com/drive/folders/12bDXpZhjsBgjgANOO2IwnZoX2rTM3fwf?usp=share_link)
+
 
 
 
@@ -102,7 +102,6 @@ List down all the future plans for the project here
 ## 🛠Project Setup
 
 1.Clone this Git Repo onto your local storage.The link for the repo is provided below:
-
 https://github.com/Riya-1508/CocProject_StudyAbroad
 
 2.Make sure you install all the packages required for to run the application like node,express,nodemon,react,tailwind.
@@ -113,6 +112,12 @@ https://github.com/Riya-1508/CocProject_StudyAbroad
 
 5.Start servers in the terminals of both the vs code windows.
 This is how the project is started.
+
+**Start Frontend Server**
+npm run start
+
+**Start Backend Server**
+nodemon index.js
 
 ## 💻Usage
 1.Firstly the home page of the website opens on running the server.
@@ -146,3 +151,7 @@ This is how our website works.
 
 
 - [Sarvagnya Purohit](https://github.com/saRvaGnyA) - sarvagnyapurohit@gmail.com
+
+
+
+
