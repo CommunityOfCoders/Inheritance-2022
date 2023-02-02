@@ -79,7 +79,7 @@ The Institutions are given additional control over the users with the ability to
 - [GitHub Repository](https://github.com/YatharthDedhia/Online-Test-Platform)
 - [Demo Video](https://drive.google.com/drive/folders/1MhFz6CpIbnfKhD9x8FJFfd321_-WDrsg)
 - [Drive Link to Screenshots of your project](https://drive.google.com/drive/folders/1MhFz6CpIbnfKhD9x8FJFfd321_-WDrsg)
-- [Hosted Website Link](sureshot.vercel.app)
+- [Hosted Website Link](https://sureshot.vercel.app)
   
 ## 🤖Tech-Stack
 
@@ -202,49 +202,49 @@ Role wise usage listed here:
 
 ### Opening Page:
 
-![Opening Page](/Assets/1.png)
+![Opening Page](https://github.com/YatharthDedhia/Online-Test-Platform/blob/main/Assets/1.png?raw=true)
 
 ### Login-Signup Page:
-![Opening Page](/Assets/01.png)
+![Opening Page](https://github.com/YatharthDedhia/Online-Test-Platform/blob/main/Assets/01.png?raw=true)
 
 >## Students:
 ### Student Dashboard Page:
-![Opening Page](/Assets/16.png)
+![Opening Page](https://github.com/YatharthDedhia/Online-Test-Platform/blob/main/Assets/16.png?raw=true)
 
 ### Student Profile Page:
-![Opening Page](/Assets/17.png)
+![Opening Page](https://github.com/YatharthDedhia/Online-Test-Platform/blob/main/Assets/17.png?raw=true)
 
 ### Student Notes Page:
-![Opening Page](/Assets/02.png)
+![Opening Page](https://github.com/YatharthDedhia/Online-Test-Platform/blob/main/Assets/02.png?raw=true)
 
 ### Student Test Page:
-![Opening Page](/Assets/20.png)
+![Opening Page](https://github.com/YatharthDedhia/Online-Test-Platform/blob/main/Assets/20.png?raw=true)
 
 >## Teachers
 ### Teacher Ranklist Page:
-![Opening Page](/Assets/11.png)
+![Opening Page](https://github.com/YatharthDedhia/Online-Test-Platform/blob/main/Assets/11.png?raw=true)
 
 ### Teacher Schedule Test Page:
-![Opening Page](/Assets/13.png)
+![Opening Page](https://github.com/YatharthDedhia/Online-Test-Platform/blob/main/Assets/13.png?raw=true)
 
 ### Teacher Make Question Bank Page:
-![Opening Page](/Assets/14.png)
+![Opening Page](https://github.com/YatharthDedhia/Online-Test-Platform/blob/main/Assets/14.png?raw=true)
 
 ### Teacher Create Test Paper Page:
-![Opening Page](/Assets/18.png)
+![Opening Page](https://github.com/YatharthDedhia/Online-Test-Platform/blob/main/Assets/18.png?raw=true)
 
 ### Teacher Course Resources Page:
-![Opening Page](/Assets/12.png)
+![Opening Page](https://github.com/YatharthDedhia/Online-Test-Platform/blob/main/Assets/12.png?raw=true)
 
 >## Admin 
 ### Admin User Activaton Page:
-![Opening Page](/Assets/04.png)
+![Opening Page](https://github.com/YatharthDedhia/Online-Test-Platform/blob/main/Assets/04.png?raw=true)
 
 ### Admin Student Course Assignment Page:
-![Opening Page](/Assets/08.png)
+![Opening Page](https://github.com/YatharthDedhia/Online-Test-Platform/blob/main/Assets/08.png?raw=true)
 
 ### Admin Teacher Course Assignment Page:
-![Opening Page](/Assets/09.png)
+![Opening Page](https://github.com/YatharthDedhia/Online-Test-Platform/blob/main/Assets/09.png?raw=true)
 
 ### Admin Course Creation Page:
-![Opening Page](/Assets/07.png)
+![Opening Page](https://github.com/YatharthDedhia/Online-Test-Platform/blob/main/Assets/07.png?raw=true)
