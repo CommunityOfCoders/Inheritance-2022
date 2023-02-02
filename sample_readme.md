@@ -3,12 +3,12 @@
     <img src="https://res.cloudinary.com/dn6vz8exv/image/upload/v1665664791/inh_zzefoy.jpg" alt="CoC Inheritance 2022" width="500" height="166">
   </a>
   <br>
-  Project Name
+  Study Abroad 
 </h1>
 
 <div align="center">
-   <strong>Project Name</strong> - One Sentence Description of your project<br>
-  CoC Inheritance 2022 || Team Name <br> <br>
+   <strong>Study Abroad</strong> - A website that showcases the best universities in foreign countries for higher learning.<br>
+  CoC Inheritance 2022 || Team Coding Demons <br> <br>
   Add any <a href="https://shields.io/">Shields</a> here
 </div>
 <hr>
@@ -38,12 +38,10 @@ Add your **project description** here. Your project description should cover how
 
 ## 🔗Links
 
-- [GitHub Repository]()
+- [GitHub Repo Link](https://github.com/Riya-1508/CocProject_StudyAbroad)
 - [Demo Video]()
 - [Drive Link to Screenshots of your project]()
-- [Hosted Website Link]()
-- [App APK Link]()
-- [Hosted Backend Link]()
+
 
 Add any more links/resources you used for your project
 
@@ -54,9 +52,10 @@ You can use icons too - find them [here](https://github.com/get-icon/geticon)
 
 #### Front-end
 - HTML
-- CSS
+- CSS(Tailwind)
 - JavaScript
-- etc.
+- React
+
 
 #### Back-end
 - NodeJS
@@ -65,21 +64,24 @@ You can use icons too - find them [here](https://github.com/get-icon/geticon)
 
 #### Database
 - MongoDB
-- SQL
-- etc.
 
-#### Computer Vision
-- OpenCV
-- etc.
+#### Web Scraping
+- JSDOM
+- Beautifulsoup
+
+
 
 ## 📈Progress
 
-List down all the fully implemented features in your project
 
-- [x] Fully Implemented Feature 1 
-- [x] Fully Implemented Feature 2
 
-List down all the partially implemented features in your project
+- [x] Login page for the users to get access to the content
+- [x]Signup page for the user 
+- [x]Search Bar to search colleges with filters
+- [x]Colleges for both post graduation and graduation are displayed
+- [x]Top 8 colleges for each course will be displayed from each country
+
+
 
 - [ ] Partially Implemented Feature 1 
 - [ ] Partially Implemented Feature 2
@@ -105,17 +107,18 @@ List down all the future plans for the project here
 
 ## 👨‍💻Team Members
 
-Add names of your team members with their emails and links to their GitHub accounts
 
-- [Team Member 1 Name](https://github.com/): Email 
-- [Team Member 2 Name](https://github.com/): Email 
 
+- [Manav Abhang](https://github.com/Manav108) - abhmanav0103@gmail.com 
+- [Riya Kasture](https://github.com/Riya-1508) - kastureriya@gmail.com 
+- [Sharayu Anuse](https://github.com/sharayuanuse) - sharayu.anuse@gmail.com
+- [Manas Patil](https://github.com/Santapp) - manaspatil365@gmail.com
 ## 👨‍🏫Mentors
 
-Add names of your mentors with their emails and links to their GitHub accounts
 
-- [Mentor 1 Name](https://github.com/): Email 
-- [Mentor 2 Name](https://github.com/): Email 
+
+- [Sarvagnya Purohit](https://github.com/saRvaGnyA) - sarvagnyapurohit@gmail.com
+
 
 ## 📱Screenshots
 Add a few screenshots for parts of the project completed till now to give the viewer a quick idea of what your project looks like. After all, a picture speaks a thousand words.
