@@ -3,13 +3,12 @@
     <img src="https://res.cloudinary.com/dn6vz8exv/image/upload/v1665664791/inh_zzefoy.jpg" alt="CoC Inheritance 2022" width="500" height="166">
   </a>
   <br>
-  Project Name
+  MyPharmacy
 </h1>
 
 <div align="center">
-   <strong>Project Name</strong> - One Sentence Description of your project<br>
-  CoC Inheritance 2022 || Team Name <br> <br>
-  Add any <a href="https://shields.io/">Shields</a> here
+   <strong>MyPharmacy</strong> - One Sentence Description of your project<br>
+  CoC Inheritance 2022 || CodeCompileRun <br> <br>
 </div>
 <hr>
 
