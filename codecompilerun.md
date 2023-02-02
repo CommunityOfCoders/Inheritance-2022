@@ -8,8 +8,7 @@
 
 <div align="center">
    <strong>MyPharmacy</strong> - Website for medicines, generic drugs, and pharmacy stores near you.<br>
-  CoC Inheritance 2022 || Team codecompilerun <br> <br>
-  Add any <a href="https://shields.io/">Shields</a> here
+  CoC Inheritance 2022 || Team codecompilerun <br>
 </div>
 <hr>
 
@@ -39,27 +38,22 @@ The important feature highlights of our website include:
 2. Suggesting medicines by health condition
 3. Searching for a generic medicine by name
 4. Suggesting generic medicines by health condition
-5. Searching for nearest Pharmacy store by pincode or locality.
+5. Finding the nearest Pharmacy store by pincode or locality.
 ## 🔗Links
 
-- [GitHub Repository]()
-- [Demo Video]()
+- [GitHub Repository](https://github.com/AynSiddiqui/MyPharmacy)
+- [Demo Video](https://drive.google.com/file/d/197fTiLBlqp7_9J7OlWJqRMFqejiN7SnE/view?usp=share_link)
 - [Drive Link to Screenshots of your project](https://drive.google.com/drive/folders/1HGaJgkpIL28itoL5Hv8_UPfvJquq1Das)
-- [Hosted Website Link]()
+<!-- - [Hosted Website Link]()
 - [App APK Link]()
-- [Hosted Backend Link]()
-
-Add any more links/resources you used for your project
+- [Hosted Backend Link]() -->
 
 ## 🤖Tech-Stack
 
-Mention all languages/libraries/frameworks used in your project **domain-wise**   
-You can use icons too - find them [here](https://github.com/get-icon/geticon) 
-
 #### Front-end
-- html (dynamic)
-- css
-- javascript
+- HTML (Dynamic)
+- CSS
+- Javascript
 
 #### Back-end
 - NodeJS
@@ -101,11 +95,10 @@ In future, we are planning to bring the follwing advancements to our website:
 
 ## 💸Applications
 
->How can your project do its part in solving a real-life problem? What are its possible applications? Can it be monetized? Describe here.
->It is challenging to find a centralized, trustworthy evidence-based resource for drug information and drug interactions. Our website provides a single reliable digital resource that gives all the details of a single medicine at one place.
->Also, our website offers suggestions for the best drug to cure a health condition which is a rare feature.
->MyPharmacy offers suggestions on generic drugs to cure a health condition. This feature has not been seen to be implemented on any website so far.
->This website can ne monetized. Pharmacies generate data with every prescription. This data contains valuable information: who is prescribing, which medications, who is paying for them, what quantities and days supply, and much more. It is pharma manufacturers are most interested in this information. There are other interested parties such as research firms, payers, and clinicians. The data that is helpful to companies isn’t patient-specific data. Instead, they are interested in market-level data. Market-level pharmacy data is the specific data related to the script, not the patient. This data can be freely bought and sold without worrying about violating any privacy rules.
+- It is challenging to find a centralized, trustworthy evidence-based resource for drug information and drug interactions. Our website provides a single reliable digital resource that gives all the details of a single medicine at one place.
+- Also, our website offers suggestions for the best drug to cure a health condition which is a rare feature.
+- MyPharmacy offers suggestions on generic drugs to cure a health condition. This feature has not been seen to be implemented on any website so far.
+- This website can ne monetized. Pharmacies generate data with every prescription. This data contains valuable information: who is prescribing, which medications, who is paying for them, what quantities and days supply, and much more. It is pharma manufacturers are most interested in this information. There are other interested parties such as research firms, payers, and clinicians. The data that is helpful to companies isn’t patient-specific data. Instead, they are interested in market-level data. Market-level pharmacy data is the specific data related to the script, not the patient. This data can be freely bought and sold without worrying about violating any privacy rules.
 
 ## 🛠Project Setup
 
@@ -117,8 +110,6 @@ In future, we are planning to bring the follwing advancements to our website:
 
 ## 👨‍💻Team Members
 
-Add names of your team members with their emails and links to their GitHub accounts
-
 - [Ayaan Siddiqui](https://github.com/AynSiddiqui) : ayaansiddiqui68@gmail.com 
 - [Rozeeta Fernandes](https://github.com/roze-ferns) : rozeeta1107@gmail.com 
 - [Anushree Dere](https://github.com/AnushreeDere) : anushreedere@gmail.com
@@ -126,17 +117,14 @@ Add names of your team members with their emails and links to their GitHub accou
 
 ## 👨‍🏫Mentors
 
-Add names of your mentors with their emails and links to their GitHub accounts
-
 - [Nishant Patil](https://github.com/Nishtan) 
 - [Rushabh Maru](https://github.com/RushabhM03)
 
 ## 📱Screenshots
-Add a few screenshots for parts of the project completed till now to give the viewer a quick idea of what your project looks like. After all, a picture speaks a thousand words.
 
-You'll have to link the screenshots from your drive folder here.
-
-![Screenshot alt text](https://i.redd.it/qp8ocyzvyj8a1.jpg "Here is a screenshot")
-
-Use this template as a guide for writing your documentation. Feel free to customize and adapt it for you project.  
-For more Markdown syntax help, visit [here](https://www.markdownguide.org/basic-syntax/)
+![Screenshot (29)](https://user-images.githubusercontent.com/103879986/216403068-2b465239-f196-47ad-9270-fbf50968eb4c.png)
+![Screenshot (32)](https://user-images.githubusercontent.com/103879986/216403456-6af9879f-b7ee-4303-9577-a63185b77939.png)
+![Screenshot (36)](https://user-images.githubusercontent.com/103879986/216403469-af91c02e-6fa4-47de-a120-16851746e3a2.png)
+![Screenshot (40)](https://user-images.githubusercontent.com/103879986/216403476-80493933-d512-4c5a-95e3-056db52a0f97.png)
+![Screenshot (37)](https://user-images.githubusercontent.com/103879986/216403487-18fa589a-01a4-4730-affd-c49052f61258.png)
+![Screenshot (34)](https://user-images.githubusercontent.com/103879986/216403901-69559d28-41ff-456b-a6aa-dfa6d0af2e01.png)
