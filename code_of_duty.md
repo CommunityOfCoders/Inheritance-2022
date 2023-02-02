@@ -79,7 +79,7 @@ The Institutions are given additional control over the users with the ability to
 - [GitHub Repository](https://github.com/YatharthDedhia/Online-Test-Platform)
 - [Demo Video](https://drive.google.com/drive/folders/1MhFz6CpIbnfKhD9x8FJFfd321_-WDrsg)
 - [Drive Link to Screenshots of your project](https://drive.google.com/drive/folders/1MhFz6CpIbnfKhD9x8FJFfd321_-WDrsg)
-- [Hosted Website Link](sureshot.vercel.app)
+- [Hosted Website Link](https://sureshot.vercel.app)
   
 ## 🤖Tech-Stack
 
