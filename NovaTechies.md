@@ -3,13 +3,12 @@
     <img src="https://res.cloudinary.com/dn6vz8exv/image/upload/v1665664791/inh_zzefoy.jpg" alt="CoC Inheritance 2022" width="500" height="166">
   </a>
   <br>
-  Project Name
+  PJ Finder
 </h1>
 
 <div align="center">
-   <strong>PG Finder</strong> - One Sentence Description of your project<br>
+   <strong>PG Finder</strong> - Find PG's near you without any hassle<br>
   CoC Inheritance 2022 || Nova Techies <br> <br>
-  Add any <a href="https://shields.io/">Shields</a> here
 </div>
 <hr>
 
