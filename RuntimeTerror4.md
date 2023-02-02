@@ -122,11 +122,8 @@ Team members, Github accounts and Mail ID.
 
 ## 👨‍🏫Mentors
 
-No mentors were assigned. 
-
-The project was done under the guidance of:
-
-- [Sarvagnya Purohit](https://github.com/saRvaGnya)
+Sarvagnya Purohit
+- [GitHub](https://github.com/saRvaGnya)
 
 ## 📱Screenshots
 
