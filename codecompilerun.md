@@ -106,16 +106,21 @@ In future, we are planning to bring the follwing advancements to our website:
 ```
 https://github.com/AynSiddiqui/MyPharmacy
 ```
-- Run commands on your terminal/ bash to start the Mongo server on port 27017(default) :
+- Run commands on your terminal/ bash in two separate windows to start the Mongo server on port 27017(default) and keep them running in the background :
+Terminal 1
 ```
 mongod
+```
+Terminal 2
+```
 mongosh
 ```
 - Then run this command in terminal/shell in the folder MyPharmacy/MyPharmacy Website : 
 ```
 npm run dev
 ```
-- In the folder MyPharmacy/MyPharmacy Website run the command in terminal/shell : 
+- In the folder MyPharmacy/MyPharmacy Website run the command in a separate terminal/shell in the background and keep it running : 
+Terminal 3
 ```
 python app.py
 ```
