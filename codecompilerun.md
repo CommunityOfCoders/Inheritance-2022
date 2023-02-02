@@ -76,7 +76,6 @@ You can use icons too - find them [here](https://github.com/get-icon/geticon)
 - Language : Python
 - pandas dataframe and all its related features
 - flask modules such as Flask, request, jsonify
--etc.
 
 ## 📈Progress
 
@@ -106,7 +105,7 @@ In future, we are planning to bring the follwing advancements to our website:
 >It is challenging to find a centralized, trustworthy evidence-based resource for drug information and drug interactions. Our website provides a single reliable digital resource that gives all the details of a single medicine at one place.
 >Also, our website offers suggestions for the best drug to cure a health condition which is a rare feature.
 >MyPharmacy offers suggestions on generic drugs to cure a health condition. This feature has not been seen to be implemented on any website so far.
->Pharmacies generate data with every prescription. This data contains valuable information: who is prescribing, which medications, who is paying for them, what quantities and days supply, and much more. It is pharma manufacturers are most interested in this information. There are other interested parties such as research firms, payers, and clinicians. The data that is helpful to companies isn’t patient-specific data. Instead, they are interested in market-level data. Market-level pharmacy data is the specific data related to the script, not the patient. This data can be freely bought and sold without worrying about violating any privacy rules.
+>This website can ne monetized. Pharmacies generate data with every prescription. This data contains valuable information: who is prescribing, which medications, who is paying for them, what quantities and days supply, and much more. It is pharma manufacturers are most interested in this information. There are other interested parties such as research firms, payers, and clinicians. The data that is helpful to companies isn’t patient-specific data. Instead, they are interested in market-level data. Market-level pharmacy data is the specific data related to the script, not the patient. This data can be freely bought and sold without worrying about violating any privacy rules.
 
 ## 🛠Project Setup
 
@@ -129,8 +128,8 @@ Add names of your team members with their emails and links to their GitHub accou
 
 Add names of your mentors with their emails and links to their GitHub accounts
 
-- [Nishant Patil](https://github.com/): Email 
-- [Rushabh Maru](https://github.com/): Email 
+- [Nishant Patil](https://github.com/Nishtan) 
+- [Rushabh Maru](https://github.com/RushabhM03)
 
 ## 📱Screenshots
 Add a few screenshots for parts of the project completed till now to give the viewer a quick idea of what your project looks like. After all, a picture speaks a thousand words.
