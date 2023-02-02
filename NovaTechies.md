@@ -3,7 +3,7 @@
     <img src="https://res.cloudinary.com/dn6vz8exv/image/upload/v1665664791/inh_zzefoy.jpg" alt="CoC Inheritance 2022" width="500" height="166">
   </a>
   <br>
-  PJ Finder
+  PG Finder
 </h1>
 
 <div align="center">
