@@ -42,7 +42,7 @@ The important feature highlights of our website include:
 ## 🔗Links
 
 - [GitHub Repository](https://github.com/AynSiddiqui/MyPharmacy)
-- [Demo Video](https://drive.google.com/file/d/197fTiLBlqp7_9J7OlWJqRMFqejiN7SnE/view?usp=share_link)
+- [Demo Video](https://drive.google.com/drive/folders/1xAsDljRDkTxvy6-qhgdFoZiXGrDMAZns)
 - [Drive Link to Screenshots of your project](https://drive.google.com/drive/folders/1HGaJgkpIL28itoL5Hv8_UPfvJquq1Das)
 <!-- - [Hosted Website Link]()
 - [App APK Link]()
@@ -102,11 +102,31 @@ In future, we are planning to bring the follwing advancements to our website:
 
 ## 🛠Project Setup
 
->Include your project setup basics here. Steps for how someone else can setup your project on their machine. Add any relevant details as well.
-
-## 💻Usage
-
->Steps to run your project once its setup. If you have an app or website, list how the user can go about using it.
+- Clone the git repository 
+```
+https://github.com/AynSiddiqui/MyPharmacy
+```
+- Run commands on your terminal/ bash to start the Mongo server on port 27017(default) :
+```
+mongod
+mongosh
+```
+- Then run this command in terminal/shell in the folder MyPharmacy/MyPharmacy Website : 
+```
+npm run dev
+```
+- In the folder MyPharmacy/MyPharmacy Website run the command in terminal/shell : 
+```
+python app.py
+```
+or if you are in a python env then run :
+```
+app.py
+``` 
+- Open link to view the website in your browser window if it doesn't open automatically : 
+```
+http://localhost:5000/
+```
 
 ## 👨‍💻Team Members
 
@@ -124,6 +144,7 @@ In future, we are planning to bring the follwing advancements to our website:
 
 ![Screenshot (29)](https://user-images.githubusercontent.com/103879986/216403068-2b465239-f196-47ad-9270-fbf50968eb4c.png)
 ![Screenshot (32)](https://user-images.githubusercontent.com/103879986/216403456-6af9879f-b7ee-4303-9577-a63185b77939.png)
+![Screenshot (49)](https://user-images.githubusercontent.com/103879986/216407739-6670fe14-a17c-473c-9afd-9bacce1356e4.png)
 ![Screenshot (36)](https://user-images.githubusercontent.com/103879986/216403469-af91c02e-6fa4-47de-a120-16851746e3a2.png)
 ![Screenshot (40)](https://user-images.githubusercontent.com/103879986/216403476-80493933-d512-4c5a-95e3-056db52a0f97.png)
 ![Screenshot (37)](https://user-images.githubusercontent.com/103879986/216403487-18fa589a-01a4-4730-affd-c49052f61258.png)
