@@ -192,7 +192,7 @@ visit loclhost:3000 and do your thing!
 - [Labib Asari](https://github.com/labeeb-7z) : labeebasari@gmail.com 
 - [Sameer Gupta](https://github.com/sameergupta4873) : sameergupta4873@gmail.com
 - [Viraj Shah](https://github.com/virajbshah) : shahvirajbiren@gmail.com
-- Adwait Mandge
+- [Adwait Mandge](https://github.com/adwaitmandge) : adwaitmandge@gmail.com
 
 
 ---
