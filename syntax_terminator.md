@@ -48,7 +48,10 @@
 ## 🔗Links
 
 - [GitHub Repository](https://github.com/ShauryaSwarup/Syntax_Terminators)
-- [Demo Video and Screenshots](https://drive.google.com/drive/folders/1HYFNCMZ5OK5kjx4IGP9QaDDi4yMoiiqh?usp=sharing)
+- [Demo Video](https://drive.google.com/file/d/1sVFOIO7VJhKbfnI2_FH2uY_MuRW7SigV/view?usp=share_link)
+- [Scraper Dashboard and Website Screenshots](https://drive.google.com/drive/folders/1HYFNCMZ5OK5kjx4IGP9QaDDi4yMoiiqh?usp=sharing)
+- [Live Demo (Hosted Website Link)](https://syntax-terminators-hosting.vercel.app/)
+- [Hosted Backend Link](https://syntax-terminators-hosting-api.vercel.app/)
 
 ## 🤖Tech-Stack
 <div>
@@ -190,5 +193,5 @@ nodemon index.js
 
 ## 👨‍🏫Mentors
 
-- [Ankit Sharma](https://github.com/](https://github.com/AnkittSharmaa)
-- [Nirbhay Hanjura](https://github.com/](https://github.com/botnirbhay)
+- [Ankit Sharma](https://github.com/AnkittSharmaa)
+- [Nirbhay Hanjura](https://github.com/botnirbhay)
