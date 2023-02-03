@@ -149,7 +149,7 @@ Add names of your team members with their emails and links to their GitHub accou
 Add names of your mentors with their emails and links to their GitHub accounts
 
 - [Sachit Sankhe](https://github.com/SachitSankhe): Email sachitsankhe@gmail.com
-- [Priyansh Rathore](https://github.com/PriYanshAgarwal871): Email 
+- [Priyansh Agarwal](https://github.com/PriYanshAgarwal871): Email agarwalpriyansh6@gmail.com
 
 ## 📱Screenshots
 Add a few screenshots for parts of the project completed till now to give the viewer a quick idea of what your project looks like. After all, a picture speaks a thousand words.
